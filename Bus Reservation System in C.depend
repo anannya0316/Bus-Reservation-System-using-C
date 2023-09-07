@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694062524 source:c:\users\anann\downloads\bus reservation system in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
